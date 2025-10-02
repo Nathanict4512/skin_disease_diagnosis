@@ -1,0 +1,38 @@
+{
+    "admin": {
+        "password": "admin123"
+    },
+    "doctor1": {
+        "password": "skinAI2024"
+    },
+    "nurse1": {
+        "password": "1234"
+    },
+    "sweet": {
+        "password": "sweet"
+    },
+    "sweetw": {
+        "password": "admin"
+    },
+    "user": {
+        "password": "user"
+    },
+    "user 1": {
+        "password": "user"
+    },
+    "praise": {
+        "password": "praise"
+    },
+    "dan": {
+        "password": "dan"
+    },
+    "makolo": {
+        "password": "makolo"
+    },
+    "ugbede": {
+        "password": "ugbede"
+    },
+    "ius": {
+        "password": "a"
+    }
+}

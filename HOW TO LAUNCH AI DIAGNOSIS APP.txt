@@ -1,0 +1,63 @@
+==========================================
+HOW TO LAUNCH THE AI SKIN DISEASE APP
+==========================================
+
+Follow these steps carefully:
+
+1️. Open the Application Folder
+------------------------------------------
+- Option A: Right-click on the desktop shortcut and choose "Open file location".
+- Option B: Navigate manually:
+  C:\Users\hp\skin_disease_diagnosis
+
+2️. Open Command Prompt in this Folder
+------------------------------------------
+- Click the address bar at the top of the File Explorer window.
+- Type:
+  cmd
+- Press Enter.
+- This will open Command Prompt already pointing to this folder.
+
+3️. Activate the Virtual Environment
+------------------------------------------
+- In the Command Prompt, type:
+
+  venv\Scripts\activate
+
+- Press Enter.
+- You should see the prompt change to show (venv).
+
+4️. Launch the App with Streamlit
+------------------------------------------
+- Still in the Command Prompt, type:
+
+  streamlit run main.py
+
+- Press Enter.
+- Wait a moment for the server to start.
+
+5️. View the App in Your Browser
+------------------------------------------
+- Once loaded, a local URL will appear, typically:
+
+  http://localhost:8501
+
+- The app may open automatically in your browser. If not, copy the URL and paste it into your browser.
+
+==========================================
+TIPS
+==========================================
+
+✔️ Keep the Command Prompt window open while using the app.
+✔️ To stop the app, press CTRL + C in the Command Prompt.
+
+✔️ To access the trained images locate dataset from the application root folder or navigate here: 
+C:\Users\hp\skin_disease_diagnosis\dataset
+
+==========================================
+SUPPORT
+==========================================
+
+If you encounter any problems, please contact the developer.
+
+#2025 (C) Daniel Makolo.
