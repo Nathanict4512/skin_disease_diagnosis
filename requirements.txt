@@ -6,3 +6,4 @@ numpy
 opencv-python-headless
 matplotlib
 seaborn
+scikit-learn
